@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>
 <body>
 <h1><strong>Indoor Plants</strong></h1>
